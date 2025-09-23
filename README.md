@@ -18,4 +18,4 @@ In arduino code, insert your PC IP Address (e.g., const char * udpAddress = "192
 In your pc, open command promt(cmd), type and hit "ipconfig". Look for the IPv4 Address of your WiFi adapter (e.g., 192.168.74.98).
 Keywords: ESP32, WiFi sensor logging, Python, UDP, CSV logging
 
-![ESP32 Pinout]
+![ESP32 Pinout] https://github.com/yezayhein/How-to-send-sensor-values-from-esp32-to-pc-over-wifi-and-log-in-csv-file-with-python/blob/main/ESP32.jpg
