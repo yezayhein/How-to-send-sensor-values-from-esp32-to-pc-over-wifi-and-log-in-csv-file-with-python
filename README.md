@@ -1,4 +1,4 @@
-# How-to-send-sensor-values-from-esp32-to-pc-over-wifi-and-log-in-csv-file-with-python
+# How-to-send-sensor-values-from-ESP32-to-pc-over-wifi-and-log-in-csv-file-with-python
 Sensors Pinout
 1.  DHT11                    =>     4
 2.  mq2Pin                   =>    33
