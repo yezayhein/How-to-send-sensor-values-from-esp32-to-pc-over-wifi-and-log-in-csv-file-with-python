@@ -3,11 +3,6 @@
 #include <Wire.h>
 #include <Adafruit_SGP30.h>
 #include <DHT.h>
-#ifdef U8X8_HAVE_HW_SPI
-#include <SPI.h>
-#endif
-#ifdef U8X8_HAVE_HW_I2C
-#endif
 
 // WiFi network name and password:
 const char * networkName = "WiFi_Name";
@@ -144,3 +139,4 @@ void WiFiEvent(WiFiEvent_t event){
       default: break;
     }
 }
+
